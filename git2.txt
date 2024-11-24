@@ -2,7 +2,6 @@
 
 2
 
-<<<<<<< HEAD
 3 ddd
 3 xyz 
 3 xyz
@@ -10,7 +9,5 @@
 10
 
 11
-=======
 ádasd
 2
->>>>>>> 7cfb91d (Commit 6 stash 1 merge)
